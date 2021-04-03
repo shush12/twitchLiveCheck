@@ -3,6 +3,8 @@ A python program to check whether or not a twitch channel is currently live or n
 
 ---- Using the new Twitch API!
 
+Important:
+- To use this you must install the packages: requests and json, there's an included bat file that will do it automatically for you.
 
 To use this you must sign-up to the twitch API, and there you need to register an application.
 The twitch api can be found here: https://dev.twitch.tv/
